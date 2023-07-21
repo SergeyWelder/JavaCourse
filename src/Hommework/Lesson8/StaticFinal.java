@@ -9,12 +9,13 @@ public class StaticFinal {
     static void delenie(int a, int b) {
         int result = a / b;
         int result2 = a % b;
-        System.out.println(result +" "+ result2);
+        System.out.println(result + " " + result2);
     }
 }
-class Result{
+
+class Result {
     public static void main(String[] args) {
-        StaticFinal.umnazenie(5,5,5);
-        StaticFinal.delenie(80,3);
+        StaticFinal.umnazenie(5, 5, 5);
+        StaticFinal.delenie(80, 3);
     }
 }

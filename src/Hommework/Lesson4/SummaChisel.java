@@ -30,8 +30,6 @@ public class SummaChisel {
 
 class SummaChiselTest {
     public static void main(String[] args) {
-
-
         SummaChisel s1 = new SummaChisel();
         s1.sum();
         s1.sum(5);

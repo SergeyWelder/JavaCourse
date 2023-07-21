@@ -6,6 +6,7 @@ public class Hommework {
     public double circleSquare(int radius) {
         double result = pi * radius * radius;
         System.out.println(result);
+
         return result;
 
     }
@@ -13,6 +14,7 @@ public class Hommework {
     public static double circle(int radius) {
         double circle = 2 * pi * radius;
         System.out.println(circle);
+
         return circle;
     }
 
@@ -23,15 +25,13 @@ public class Hommework {
 
     }
 }
-    class HommeworkTest{
-        public static void main(String[] args) {
-            Hommework h=new Hommework();
-            h.circleSquare(5);
-            h.info(8);
-            Hommework.circle(20);
 
-        }
-
-
+class HommeworkTest {
+    public static void main(String[] args) {
+        Hommework h = new Hommework();
+        h.circleSquare(5);
+        h.info(8);
+        Hommework.circle(20);
     }
+}
 

@@ -34,6 +34,5 @@ class WeldingCompanyTest {
         System.out.println(wc1.name);
         System.out.println(wc1.exc);
 
-
     }
 }

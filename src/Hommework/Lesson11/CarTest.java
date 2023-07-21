@@ -4,6 +4,7 @@ public class CarTest {
     public void doorChange(Car c, int doors) {
         c.doors = doors;
     }
+
     void colorChange(Car car1, Car car2) {
         String color = car1.color;
         car1.color = car2.color;

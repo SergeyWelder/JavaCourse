@@ -23,7 +23,8 @@ public class Car {
         cena += 1000;
     }
 }
-class Car2{
-    int a =11;
+
+class Car2 {
+    int a = 11;
 
 }

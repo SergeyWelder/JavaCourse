@@ -3,10 +3,9 @@ package Hommework.Lesson13;
 public class Month {
     int month; //2015y
 
-    public static void main(String[] args) {
-        Month m = new Month();
-        m.month = 8;
-        switch (m.month) {
+    public static void dayQuantity(int month) {
+
+        switch (month) {
             case 1:
             case 3:
             case 5:
@@ -25,7 +24,16 @@ public class Month {
             case 2:
                 System.out.println("28 days");
                 break;
+            default:
+                System.out.println("incorrect data");
         }
 
+    }
+
+    public static void main(String[] args) {
+        dayQuantity(3);
+        dayQuantity(2);
+        dayQuantity(4);
+        dayQuantity(-5);
     }
 }

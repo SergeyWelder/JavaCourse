@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a484f5d-b668-4122-abc0-5dfdb060bdde" name="Changes" comment="Create class WeldingCompany &#10;Test if else">
-      <change afterPath="$PROJECT_DIR$/src/Hommework/Lesson13/Month.java" afterDir="false" />
+    <list default="true" id="4a484f5d-b668-4122-abc0-5dfdb060bdde" name="Changes" comment="Create class Month&#10;Test switch chase">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hommework/Lesson13/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hommework/Lesson13/Month.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,7 @@
       <workItem from="1689824121579" duration="11025000" />
       <workItem from="1689867596826" duration="2692000" />
       <workItem from="1689916512719" duration="14541000" />
-      <workItem from="1690388221279" duration="1356000" />
+      <workItem from="1690388221279" duration="2153000" />
     </task>
     <task id="LOCAL-00001" summary="Car change doors. Static">
       <option name="closed" value="true" />
@@ -185,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690004994816</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Create class Month&#10;Test switch chase">
+      <option name="closed" value="true" />
+      <created>1690389724489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690389724489</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +206,8 @@
     <MESSAGE value="Refactor" />
     <MESSAGE value="Create class Student &#10;Test if else" />
     <MESSAGE value="Create class WeldingCompany &#10;Test if else" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create class WeldingCompany &#10;Test if else" />
+    <MESSAGE value="Create class Month&#10;Test switch chase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create class Month&#10;Test switch chase" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
